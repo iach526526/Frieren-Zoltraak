@@ -1,6 +1,9 @@
-Zoltraak
+# Zoltraak
+
 ![demo](./img/demo.gif)
+
 This is a Scratch game inspired by Frieren: Beyond Journey's End. I drew the Zoltraak magic circle using Figma, and combined it with Scratch to create an interactive experience.
+
 ## How to Play
 
 Press the space key to discharge the Zoltraak magic.
