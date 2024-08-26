@@ -15,3 +15,6 @@ Press the space key to discharge the Zoltraak magic.
 2.Open the Scratch editor (either online at Scratch's website or using the offline editor).
 
 3.Upload the .sb3 file to Scratch.
+
+## Guess you will like it
+[This](https://scratch.mit.edu/projects/981898787) is the fisheye test of the magic circle. It has many different effects. You can view it by uncommenting it.
