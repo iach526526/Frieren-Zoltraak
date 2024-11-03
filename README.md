@@ -1,7 +1,9 @@
 # Zoltraak
+![Production process(YouTube)](https://www.youtube.com/watch?v=jAAjW5QsicI)
 
 ![demo](./img/demo.gif)
-![Production process](https://www.youtube.com/watch?v=jAAjW5QsicI)
+
+
 This is a Scratch game inspired by Frieren: Beyond Journey's End. I drew the Zoltraak magic circle using Figma, and combined it with Scratch to create an interactive experience.
 
 ## How to Play
